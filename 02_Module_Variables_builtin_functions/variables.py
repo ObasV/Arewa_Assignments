@@ -55,7 +55,7 @@ product = num_two * num_one
 print(f'num_two {num_two} multiplied by num_one {num_one} = {product}')
 
 
-#Divide num_one by num_two and assign the value to a variable division
+# Divide num_one by num_two and assign the value to a variable division
 division = num_one/num_two
 print(f'num_one {num_one} divided by num_two {num_two} = {division}')
 
